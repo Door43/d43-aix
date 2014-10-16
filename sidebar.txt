@@ -1,0 +1,19 @@
+
+----
+~~NOCACHE~~
+**Door43**
+
+  * [[aix:home|Door43 (aix)]]
+  * [[en:license|License]]
+
+**Downloads**
+
+All content for this namespace is available in the [[https://github.com/Door43/d43-aix|d43-aix repository]].  To download it as a zip file, click [[https://github.com/Door43/d43-aix/archive/master.zip|d43-aix.zip]]
+
+**Recent Changes**
+{{changes>ns = aix}}
+
+**Language Information**
+
+[[http://www.ethnologue.com/language/aix|Ethnologue data]]
+
